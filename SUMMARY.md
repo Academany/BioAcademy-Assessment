@@ -1,4 +1,18 @@
 # Summary
 
 * [Introduction](README.md)
-
+* [Principles and Practices](principles_and_practices.md)
+* [(Open) Hardware for Engineering Biology](open_hardware.md)
+* [Next generation synthesis](next_generation_synthesis.md)
+* [DNA Nanostructures](dna_nanostructures.md)
+* [Cell-Free Production](cell_free_production.md)
+* [Darwin on steroids: Bio design, diversity & selection](darwin_on_steroids.md)
+* [Bio production](bio_production.md)
+* [Bio molecule sensors](bio_molecule_sensors.md)
+* [Genome Engineering](genome_engineering.md)
+* [Fluorescence In Situ Sequencing (FISSEQ)](fluorescence_in_situ_sequencing.md)
+* [Synthetic development biology](synthetic_development_biology.md)
+* [Bio Fabrication and Additive manufacturing](bio_fabrication_and_additive_manufacturing.md)
+* [Engineering the Gut Microbiome](engineering_the_gut_microbiome.md)
+* [Gene Drives & Synthetic Ecosystems](gene_drives_and_synthetic_ecosystems.md)
+* [Invention, intellectual property and more](invention_intellectual_protery_and_more.md) 
