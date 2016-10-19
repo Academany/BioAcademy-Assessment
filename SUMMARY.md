@@ -15,4 +15,4 @@
 * [Bio Fabrication and Additive manufacturing](bio_fabrication_and_additive_manufacturing.md)
 * [Engineering the Gut Microbiome](engineering_the_gut_microbiome.md)
 * [Gene Drives & Synthetic Ecosystems](gene_drives_and_synthetic_ecosystems.md)
-* [Invention, intellectual property and more](invention_intellectual_protery_and_more.md) 
+* [Invention, intellectual property and more](invention_intellectual_property_and_more.md)
