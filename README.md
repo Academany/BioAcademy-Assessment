@@ -1,7 +1,6 @@
 # Bio Academy Assignments and Assessment
 
 *Created by Anna Kaziunas France, Bas Withagen and Jean-michel Molenaar*  
-*Maintaned by Wendy Neale, Francisco Sanchez & Bas Withagen*
 
  During Bio Academy, you will learn how to envision, prototype and document your ideas through many hours of hands-on experience with digital fabrication tools. This document outlines:
 
